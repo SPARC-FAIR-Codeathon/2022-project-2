@@ -2,15 +2,15 @@ Manuscript
 
 Abstract:
 
-SPARC's datasets are build to be FAIR (Findable, Accessible, Interoperable and Resuable). This allows it's users not only
-to be able to consistantly find the data that they need, but also to be able to automate processes that would othereise
-be impossible on another platform. This culture of consistancy breeds community engagement, and this can be found in the 
-large number of citations and referneces in and around the SPARC platform. However, the way that citations and referneces 
+SPARC's datasets are build to be FAIR (Findable, Accessible, Interoperable and Reusable). This allows its users not only
+to be able to consistently find the data that they need, but also to be able to automate processes that would otherwise
+be impossible on another platform. This culture of consistency breeds community engagement, and this can be found in the 
+large number of citations and references in and around the SPARC platform. However, the way that citations and references 
 are handled on the SPARC platform as opposed to its metadata (which has recently seen a shift to the SDS2.0 configuration)
 is lacking in accessibility. From Pensive to Google Scholar to protocols.io, there are many locations all housing citation
 information for any specific study, and being able to automate this data in any meaningful way, or map the level of 
-engagement that a single study has in difficul as a result of this. Our team envisions a "life-style" approach to the 
-mionitoring of citations and refernecs in the SPARC platform, where each article can be tracked through its lifetime of
-use by other researchers. By trakcinf the articles, we would see several benefits to the SPARC portal including: Encouraging 
-the multidisiplinary essense of SPARC, cultivates discussion among contributers and users of a dataset, and researchers can
-quickly find contributers that have provided furhter findings and results in this field. 
+engagement that a single study has is difficult as a result of this. Our team envisions a "life-style" approach to the 
+monitoring of citations and references in the SPARC platform, where each article can be tracked through its lifetime of
+use by other researchers. By tracking the articles, we would see several benefits to the SPARC portal including: Encouraging 
+the multidisciplinary essence of SPARC, cultivating discussion among contributes and users of a dataset, and researchers can
+quickly find contributes that have provided further findings and results in this field. 
