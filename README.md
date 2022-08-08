@@ -6,3 +6,4 @@
    With such diversity in data generating sources, to meet FAIR standards, there's a need for a structured, standardised, informative and user friendly way of organising the raw data. SPARC portal is based on the metadata hosted on Pensive.io. The current form of the metadata includes the contributor information, study information, relational identifiers and participant information. This forms a rich source of information for any given dataset available on the SPARC portal. But this only provides an archivial ability to the SPARC portal. We realised that this could be changed to "life-cylce" monitoring of the dataset.
    
 ## Our Solution
+As a contribution to the SPARC portal we argue that by simply tracking the activity and providing a paltform for discussion over a dataset would result in a clear understanding and cross communication among the researchers interested in using the datasets or protocoles present on the SPARC portal.  
