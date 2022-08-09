@@ -1,7 +1,14 @@
 # SPARC Life Cycle
 
-[![alt text](https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg?raw=true)
+![alt text](https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg?raw=true)
 
+## Table of contents
+* [Mission](#FAIR-and-SPARC-mission)
+* [Opportunity](#Existing-Opportunity)
+* [Our Solution](#Our-Solution)
+* [Adding to SDS 2.0](#Adding-to-the-SDS-2.0-Dataset)
+* [Team](#Team)
+* [Acknowledgements](#Acknowledgements)
 
 ## FAIR and SPARC mission
  Findable, Accessible, Interoperable, and Reusable (FAIR) are the key principles behind the data generated through SPARC funded projects. SPARC does an amazing job at standardizing the way various datasets are presented on SPARC data portal. The datasets are hosted on the Pensive discover platform and are publicly available. Hence datasets over multiple organs, species, and datatypes generated through research initiatives across more than 50 institutes are curated and shared by SPARC offering better opportunities for multidisciplinary multi-institutional research initiatives. 
