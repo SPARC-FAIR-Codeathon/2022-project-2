@@ -1,9 +1,6 @@
 # SPARC Life Cycle
-<<<<<<< HEAD
-	
-![alt text](https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg?raw=true)
-=======
->>>>>>> 34e2a092e3386d51e3d2626e34557edfbd3910b4
+
+[![alt text](https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg?raw=true)=400x250)]
 
 
 ## FAIR and SPARC mission
