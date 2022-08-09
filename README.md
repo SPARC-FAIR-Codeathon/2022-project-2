@@ -2,8 +2,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![DOI](https://zenodo.org/badge/384260122.svg)](https://zenodo.org/badge/latestdoi/384260122)
-<!-- [![Lines of code][lines-of-code-shield]][lines-of-code-url] -->
 
 # SPARC Life Cycle
 ## FAIR and SPARC mission
