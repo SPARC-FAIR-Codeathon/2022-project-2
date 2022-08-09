@@ -8,8 +8,21 @@
 ## Scholar And NCBI scrapper output:
 
 Input:
+,,,
+Authorisation_Key
+DOI
+,,,
 
 Output:
-
+,,,
+Title
+DOI
+date
+Authors
+Publication
+Summary
+Significant Result
+Pmc_id
+,,,
 
 
