@@ -36,5 +36,10 @@ This is a fully open source and distributed under MIT LICENSE See [LICENSE](http
 * [Ashutosh Singh](https://github.com/singh17ashu) (Lead)
 * [Nathan LoPresto](https://github.com/NathanLoPresto) (SysAdmin)
 
+### Contributing
+ If you would like to suggest an idea to this project, please let us know in the issues page and we will take a look at your suggestion. Please use the enhacement tag to label your suggestion.
+
+If you would like to add your own feature, feel free to fork the project and send a pull request our way. This is an open source project so we will welcome your contributiobs with open arms. Refer to our Contributing Guildeines and Code of Conduct for more information. Add a GitHub Star to support active development!
+
 ### Acknowledgements
 We would like to thank the organizers of the 2021 SPARC Codeathon 
