@@ -30,7 +30,7 @@ As a contribution to the SPARC portal we argue that by simply tracking the activ
 In the new SDS 2.0 Metadata design, both experimental parameters and resources wre added as their own respective files to be added to the metadata. Our team found these two files to be interrelated, and wanted them to work seamlessly together, as our own personal experience in field has taught us the value of linking specific equipment to the functions that they perform. After filling out experimental parameters and a list of resources used in the experiment, our solution finds relationships between the parameters required by an experiment, and the tools used to achieve these conditions. From there, researchers can feel more confident in the replicability of their work. This would integrate into the SPARC Portal as a visualization of the experimental parameters and their relationship to the resources used.  
 
 <p align="center">
-  <img width="200" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SparcSDS2.0.1.png">
+  <img width="1000" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SparcSDS2.0.1.png">
 </p>
 
 
