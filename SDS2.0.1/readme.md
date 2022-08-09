@@ -43,5 +43,5 @@ Pmc_id
 </p>
 
 ### Demo
-  <img width="1000" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/sparcQeample.png">
+  <img width="1000" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/sparcQexample.png">
 </p>
