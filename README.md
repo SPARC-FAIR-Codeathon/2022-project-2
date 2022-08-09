@@ -1,6 +1,6 @@
 # SPARC Life Cycle
 
-[![alt text](https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg?raw=true)=400x250)]
+[![alt text](https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg?raw=true)
 
 
 ## FAIR and SPARC mission
