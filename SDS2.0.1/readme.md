@@ -5,4 +5,11 @@
  2. Excel sheets showing the manifestation of the SDS 2.0.1 Query and SDS 2.0.1 Citations
  3. json file containing the scraped data
  
+## Scholar And NCBI scrapper output:
+
+Input:
+
+Output:
+
+
 
