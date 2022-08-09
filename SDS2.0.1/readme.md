@@ -8,13 +8,13 @@
 ## Scholar And NCBI scrapper output:
 
 Input:
-'''
+```
  Authorisation_Key
  DOI
-'''
+```
 
 Output:
-'''
+```
 Title
 DOI
 date
@@ -23,6 +23,6 @@ Publication
 Summary
 Significant Result
 Pmc_id
-'''
+```
 
 
