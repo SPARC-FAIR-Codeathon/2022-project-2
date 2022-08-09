@@ -1,5 +1,9 @@
 # SPARC Life Cycle
 
+<p align="center">
+  <img width="200" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg">
+</p>
+
 ![alt text](https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/SPARCLifeCycle.jpg?raw=true)
 
 ## Table of contents
