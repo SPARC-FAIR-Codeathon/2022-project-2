@@ -31,8 +31,17 @@ Pmc_id
   <img width="1000" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/sparcCite.png">
 </p>
 
+### Demo
+  <img width="1000" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/sparcCiteexample.png">
+</p>
+
+
 ## Query Manifestation
 
 <p align="center">
   <img width="1000" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/sparcQ.png">
+</p>
+
+### Demo
+  <img width="1000" src="https://github.com/SPARC-FAIR-Codeathon/SPARCLifeCycle/blob/main/assets/sparcQeample.png">
 </p>
